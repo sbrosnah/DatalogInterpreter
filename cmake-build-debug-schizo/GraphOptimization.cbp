@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GraphOptimization"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphOptimization">
+				<Option output="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/GraphOptimization" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 GraphOptimization"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphOptimization/fast">
+				<Option output="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/GraphOptimization" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 GraphOptimization/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/sbrosnah/cs236/GraphOptimization/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Automaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/BlockCommentAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/BlockCommentAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ColonAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ColonAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ColonDashAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ColonDashAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/CommaAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/CommaAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/CommentAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/CommentAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Database.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Database.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/DatalogProgram.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/DatalogProgram.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Edge.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Edge.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Graph.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Graph.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Header.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Header.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ID_Automaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ID_Automaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Interpreter.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Interpreter.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Lexer.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Lexer.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/MatcherFSA.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/MatcherFSA.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Node.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Node.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Parameter.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Parameter.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Parser.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Parser.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ParserHelper.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/ParserHelper.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Predicate.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Predicate.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Relation.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Relation.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Rule.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Rule.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/StringAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/StringAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Token.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Token.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Tuple.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/Tuple.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/main.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/users/guest/s/sbrosnah/cs236/GraphOptimization/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

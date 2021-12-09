@@ -1,0 +1,298 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+Token.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.cpp
+BlockCommentAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.cpp
+ColonAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.cpp
+ColonDashAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.cpp
+CommaAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.cpp
+CommentAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.cpp
+Database.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.h
+map
+-
+string
+-
+Relation.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.cpp
+DatalogProgram.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+vector
+-
+string
+-
+set
+-
+sstream
+-
+Predicate.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h
+Rule.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.cpp
+Header.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.h
+vector
+-
+string
+-
+set
+-
+map
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.cpp
+ID_Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.cpp
+Interpreter.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.h
+Relation.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.h
+vector
+-
+iostream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.h
+DatalogProgram.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+Database.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.h
+sstream
+-
+iostream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.cpp
+Lexer.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.h
+ColonAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.h
+ColonDashAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.h
+StringAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.h
+CommaAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.h
+CommentAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.h
+BlockCommentAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.h
+MatcherFSA.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.h
+ID_Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.h
+iostream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.h
+vector
+-
+sstream
+-
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+Token.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.cpp
+MatcherFSA.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.cpp
+Parameter.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.h
+string
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.cpp
+Parser.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.h
+vector
+-
+iostream
+-
+Token.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+ParserHelper.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.h
+DatalogProgram.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.cpp
+ParserHelper.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.h
+iostream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.h
+vector
+-
+Token.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+Parameter.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.h
+DatalogProgram.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+Predicate.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h
+Rule.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.cpp
+Predicate.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h
+Parameter.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.h
+string
+-
+vector
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.cpp
+Relation.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.h
+sstream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.h
+set
+-
+Tuple.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.h
+string
+-
+Header.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.h
+vector
+-
+set
+-
+map
+-
+sstream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.cpp
+Rule.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.h
+Predicate.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h
+string
+-
+vector
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.cpp
+StringAutomaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.h
+Automaton.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.cpp
+Token.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+sstream
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h
+string
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.cpp
+Tuple.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.h
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.h
+vector
+-
+string
+-
+
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/main.cpp
+Lexer.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.h
+Parser.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.h
+DatalogProgram.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h
+Interpreter.h
+/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.h
+iostream
+-
+fstream
+-
+

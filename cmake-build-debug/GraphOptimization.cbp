@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GraphOptimization"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphOptimization">
+				<Option output="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug/GraphOptimization" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphOptimization"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphOptimization/fast">
+				<Option output="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug/GraphOptimization" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphOptimization/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/spencerbrosnahan/Desktop/School/FALL\ SEMESTER\ 2021/cs236/GraphOptimization/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Automaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/BlockCommentAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ColonDashAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommaAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CommentAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Database.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/DatalogProgram.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Header.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ID_Automaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Interpreter.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Lexer.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/MatcherFSA.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parameter.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Parser.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/ParserHelper.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Predicate.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Relation.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Rule.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/StringAutomaton.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Token.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/Tuple.h">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/main.cpp">
+			<Option target="GraphOptimization"/>
+		</Unit>
+		<Unit filename="/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/spencerbrosnahan/Desktop/School/FALL SEMESTER 2021/cs236/GraphOptimization/cmake-build-debug

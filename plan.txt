@@ -1,0 +1,67 @@
+1. Creat a graph class
+    a. This will consist of node objects that have pointers as edges
+    b. It might actually be nice to create edge objects as well that is basically a pair with pointers to node objects. That way when I create
+    the reverse graph, I can just swap the pointers.
+2. Inside of the interpreter class I can create a function to build the graph
+3. I can create a function that reverses the graph. It would probably be pest to just do this within the interpreter class.
+4. Create 2 depth first search algorithm functions (USE THE PSEUDO-CODE FROM THE BOOK! JUST ADD THE CODE FOR POST-ORDER)
+    1. returns the post-ordering
+    2. returns the search tree
+5. Create 2 depth first search forest algorithm functions (USE THE PSEUDO-CODE FROM THE BOOK! JUST ADD THE CODE FOR POST-ORDER)
+    1. Same ones as above
+6. Use all of the above functions to implement the function for finding SCCs. This function will be within the Interpreter class
+    I have the evaluate rules function.
+    I could add to the evaluate rules function so that it finds the strongly connected components, loads the rules that need to
+    be evaluated into a vector in that order and then allow the evaluate rules function to proceed evaluating the rules in the order
+    that I added them to the vector.
+
+    1. Call FindSCCs() within EvaluateRules()
+    2. Inside FindSCCs() Call BuildGraph() which will return a graph object (I could make this a member of the interpreter class.)
+    3. Then call BuildReverseGraph(Graph* graph) which will create a copy of the graph, but reverse the edges (I could make this a member of the
+        interpreter class. In that case, I wouldn't need to pass a pointer)
+    4. Call RunDFSForest() on the reverse dependency graph. This will return the post-order
+        I may need to call my DFS functions within this function.
+        The post-order one will be used to find final post-order
+        The search-tree one will be output???
+    5. Use post-order for a DFS-Forest on the forward dependency graph to find the SCCs
+    6. Put each rule that belongs to an SCC into a vector for that SCC. Then put the SCC into a vector
+
+ BuildGraph()
+    1. Assign a number to each rule starting with 0.
+        This will be the order that they appear in the input.
+    2. Output the Rule identifiers and the adjacency list
+
+ RunDFSForest()
+    1. Use the post order starting at the back!!! so I can reverse the post order and run it from the first one.
+    2. For each Node in the post order, Run DFS on it. Mark each node when visited. I can make this a bool in the node
+    object.
+        If I do this, I will need to make a public function that resets the visited markers on each node to false. I can call this in EvaluateRules
+        before calling FindSCCs() (I MAY NOT NEED TO DO THIS)
+
+ NOTE: evaluate the SCCs in the order they are found. That is why when one is found, I immediately push it onto a vector, that way it will be
+ evaluated first by the for loop in EvaluatRules
+    -If an SCC contains only one rule and it doesn't depend on itself, then that rule only needs to be evaluated once.
+        Basically, just run the fixed-point algorithm as is. I'm pretty sure it will already work. I can test this.
+    -When evaluating rules in an SCC, evaluate the rules in the numeric order assigned (R0, R1, etc)
+
+ OUTPUT:
+    I don't really need to change the output in my EvaluateRules() function, but I will need to output the dependency graph before anything else
+        -output 'Dependency Graph'
+        -output the graph as an adjacency list
+        -blank line
+
+        -For each node x output its adjacency list as a sorted comma separated list
+        -sort each node by identifier
+
+ REQUIREMENTS:
+ - No duplicate edges or nodes (maybe store these in an ordered set, or in a map so that they can't be duplicated)
+ - When there is a choice which node to choose next in DFS, choose the one that comes first numerically
+
+ class Graph():
+ private:
+    map<int, set<int>> edges  ??? suggested in the specs. int is the node identifier and the set gives neighbor nodes. I could also do it my way
+    map<int, bool> visitedNodes int is the identifier. I could also do it my way by making a node object
+    vector<int> postOrder
+    vector<set<int>> SCCs
+
+
